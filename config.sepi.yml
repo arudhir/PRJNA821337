@@ -1,0 +1,6 @@
+samples:
+  - SRR18550793
+  - SRR18550794
+  - SRR18550795
+  - SRR18550796
+transcripts: 'refs/ncbi_dataset/data/GCF_000007645.1/cds_from_genomic.fna'

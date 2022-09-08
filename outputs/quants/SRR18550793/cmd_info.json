@@ -1,0 +1,10 @@
+{
+    "salmon_version": "1.9.0",
+    "libType": "ISR",
+    "mates1": "SRR18550793_1.fastq.gz",
+    "mates2": "SRR18550793_2.fastq.gz",
+    "index": "sepi",
+    "threads": "4",
+    "output": "SRR18550793",
+    "auxDir": "aux_info"
+}

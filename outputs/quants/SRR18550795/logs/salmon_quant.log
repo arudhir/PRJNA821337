@@ -1,0 +1,39 @@
+[2022-09-08 02:24:28.343] [jointLog] [info] setting maxHashResizeThreads to 4
+[2022-09-08 02:24:28.344] [jointLog] [info] Fragment incompatibility prior below threshold.  Incompatible fragments will be ignored.
+[2022-09-08 02:24:28.345] [jointLog] [info] Usage of --validateMappings implies use of minScoreFraction. Since not explicitly specified, it is being set to 0.65
+[2022-09-08 02:24:28.347] [jointLog] [info] Setting consensusSlack to selective-alignment default of 0.35.
+[2022-09-08 02:24:28.348] [jointLog] [info] parsing read library format
+[2022-09-08 02:24:28.350] [jointLog] [info] There is 1 library.
+[2022-09-08 02:24:28.373] [jointLog] [info] Loading pufferfish index
+[2022-09-08 02:24:28.380] [jointLog] [info] Loading dense pufferfish index.
+[2022-09-08 02:24:30.043] [jointLog] [info] done
+[2022-09-08 02:24:31.315] [jointLog] [info] Index contained 2,348 targets
+[2022-09-08 02:24:31.318] [jointLog] [info] Number of decoys : 0
+[2022-09-08 02:27:26.087] [jointLog] [info] Thread saw mini-batch with a maximum of 0.38% zero probability fragments
+[2022-09-08 02:27:26.105] [jointLog] [info] Thread saw mini-batch with a maximum of 0.38% zero probability fragments
+[2022-09-08 02:27:26.231] [jointLog] [info] Thread saw mini-batch with a maximum of 0.38% zero probability fragments
+[2022-09-08 02:27:26.242] [jointLog] [info] Thread saw mini-batch with a maximum of 0.38% zero probability fragments
+[2022-09-08 02:27:27.228] [jointLog] [info] Computed 4,944 rich equivalence classes for further processing
+[2022-09-08 02:27:27.228] [jointLog] [info] Counted 1,056,490 total reads in the equivalence classes 
+[2022-09-08 02:27:27.233] [jointLog] [info] Number of mappings discarded because of alignment score : 147,012
+[2022-09-08 02:27:27.233] [jointLog] [info] Number of fragments entirely discarded because of alignment score : 136,897
+[2022-09-08 02:27:27.233] [jointLog] [info] Number of fragments discarded because they are best-mapped to decoys : 0
+[2022-09-08 02:27:27.233] [jointLog] [info] Number of fragments discarded because they have only dovetail (discordant) mappings to valid targets : 18,836
+[2022-09-08 02:27:27.235] [jointLog] [warning] Only 1056490 fragments were mapped, but the number of burn-in fragments was set to 5000000.
+The effective lengths have been computed using the observed mappings.
+
+[2022-09-08 02:27:27.235] [jointLog] [info] Mapping rate = 10.4974%
+
+[2022-09-08 02:27:27.235] [jointLog] [info] finished quantifyLibrary()
+[2022-09-08 02:27:27.252] [jointLog] [info] Starting optimizer
+[2022-09-08 02:27:27.400] [jointLog] [info] Marked 0 weighted equivalence classes as degenerate
+[2022-09-08 02:27:27.406] [jointLog] [info] iteration = 0 | max rel diff. = 494.525
+[2022-09-08 02:27:27.229] [fileLog] [info] 
+At end of round 0
+==================
+Observed 10064271 total fragments (10064271 in most recent round)
+
+[2022-09-08 02:27:27.560] [jointLog] [info] iteration = 100 | max rel diff. = 1.01606e-05
+[2022-09-08 02:27:27.561] [jointLog] [info] Finished optimizer
+[2022-09-08 02:27:27.561] [jointLog] [info] writing output 
+

@@ -1,0 +1,9 @@
+{
+    "salmon_version": "1.9.0",
+    "libType": "ISR",
+    "mates1": "outputs/reads/SRR18550797_1.fastq.gz",
+    "mates2": "outputs/reads/SRR18550797_2.fastq.gz",
+    "output": "outputs/quants/SRR18550797",
+    "index": "outputs/index",
+    "auxDir": "aux_info"
+}
